@@ -61,10 +61,11 @@ i {
 .box-10 {
 	grid-column: 1/3;
 }
-.bg-1 {
-	background-image: url("https://images.pexels.com/photos/2792078/pexels-photo-2792078.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+.bg-2 {
+	background-image: url("https://images.pexels.com/photos/628937/pexels-photo-628937.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
 	color: #333;
 }
-.bg-2 {
-	background-image: url("https://images.pexels.com/photos/2793170/pexels-photo-2793170.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+.bg-1 {
+	background-image: url("https://images.pexels.com/photos/327178/pexels-photo-327178.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
 }
+
